@@ -4,5 +4,24 @@
 @import "/css/utilidades/componentes.css";
 @import "/css/utilidades/cores.css";
 @import "/css/home/tecnologia.css";
+@import "/css/home/parceiros.css";
+@import "./home/depoimento.css";
+@import "./home/seguros.css";
+@import "./home/footer.css";
+@import "./termos/termos.css";
+@import "./home/vantagens.css";
+@import "./home/perguntas.css";
 
-@import "./bicicletas/bicicletas-listas.css"
+/*css de bicicletas*/
+@import "./bicicletas/bicicletas-listas.css";
+@import "./bicicletas/bicicletas.css";
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
+
+/*contato*/
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+@import "./utilidades/formulario.css";
+
+/*orçamento*/
+@import "./orçamento/orçamento.css";
